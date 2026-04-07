@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501848629908",
+    "project_id": "mobiletechw5-5a7cb",
+    "storage_bucket": "mobiletechw5-5a7cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501848629908:android:c9574128677dd1b9624a81",
+        "android_client_info": {
+          "package_name": "com.example.week2tut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVCfOpHfOnqKEhoe7c7dWyibwPqPqfFdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
